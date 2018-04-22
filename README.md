@@ -2,7 +2,7 @@
 
 Written by John Kennedy
 
-![SwiftGame/screenshot.png]
+![screenshot](SwiftGame/screenshot.png)
 
 * Xcode 9.3
 * Swift 4.1
